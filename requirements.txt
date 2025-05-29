@@ -1,0 +1,7 @@
+fastapi
+pymongo
+sqlalchemy
+crewai
+psycopg2
+streamlit
+dotenv
